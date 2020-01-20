@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-THEME='MacOS-Grub'
+THEME='MacOS-Grub-Light'
 LANG='English'
 
 # Change to temporary directory
